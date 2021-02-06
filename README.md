@@ -17,4 +17,4 @@ s.no | name | college
 2 | rukkugadidha | st.anns
 
 :kissing_heart:rukkugadidha
-:donkey:rukku
+:heart_eyes:rukku
