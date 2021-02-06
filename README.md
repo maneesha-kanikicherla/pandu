@@ -18,7 +18,7 @@ s.no | name | college
 
 :kissing_heart:rukkugadidha
 :heart_eyes:rukku
-:hug:rukku hugging maneesha
+:kiss:rukku hugging maneesha
 :sick:maneesha is sick
 
 now to initialize github project
