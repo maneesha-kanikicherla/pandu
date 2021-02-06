@@ -15,3 +15,5 @@ s.no | name | college
 -----|------|--------
 1 | maneesha | st.anns
 2 | rukkugadidha | st.anns
+
+:kissing_heart:rukkugadidha
