@@ -20,6 +20,7 @@ s.no | name | college
 :heart_eyes:rukku
 
 now to initialize github project
--[x] git init
--[ ] git add .
--[ ] git commit
+
+- [x] git init
+- [ ] git add .
+- [ ] git commit
