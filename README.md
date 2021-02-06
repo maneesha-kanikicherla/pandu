@@ -18,11 +18,15 @@ s.no | name | college
 
 :kissing_heart:rukkugadidha
 :heart_eyes:rukku
-:kiss:rukku hugging maneesha
-:awkward:maneesha is sick
 
 now to initialize github project
 
 - [x] git init
 - [ ] git add .
 - [ ] git commit
+
+ ~~~~python
+ def add(a,b):
+     print("addditin is",a+b)
+ add(2,3)
+   
