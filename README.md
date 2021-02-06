@@ -13,4 +13,4 @@ __openSIS is a commercial grade, secure, scalable & intuitive Student Informatio
 
 s.no| name| college
 ....| ....| ......
-1   | maneesha| st.anns
+1| maneesha| st.anns
