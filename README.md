@@ -18,7 +18,8 @@ s.no | name | college
 
 :kissing_heart:rukkugadidha
 :heart_eyes:rukku
+
 now to initialize github project
-[*] git init
-[] git add .
-[] git commit
+-[*] git init
+-[] git add .
+-[] git commit
