@@ -29,6 +29,8 @@ now to initialize github project
  def add(a,b):
      print("addditin is",a+b)
  add(2,3)
+ 
+ 
 ~~~~c
 #include<stdio.h>
 main()
